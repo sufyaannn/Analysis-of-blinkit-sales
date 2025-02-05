@@ -29,7 +29,7 @@ The **Blinkit Sales Analysis** project is a Power BI-based dashboard designed to
 4. Explore the dashboard to gain insights into Blinkit's sales trends.
 
 ## 📷 Screenshots
-
+![Image](https://github.com/user-attachments/assets/55dc082c-4f53-49da-84ca-d5f117933783)
 
 ## 👨‍💻 Author
 - **Mohammad Sufyaan** ([GitHub](https://github.com/sufyaannn))
